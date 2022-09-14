@@ -15,6 +15,7 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
+    url="https://github.com/ShaohanTian/originpy",
     packages=find_packages(),
     install_requires=['originpro', 'numpy', 'pandas'],
     keywords=['python', 'test', 'orginpy'],
